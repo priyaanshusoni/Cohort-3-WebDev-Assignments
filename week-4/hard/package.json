@@ -2,6 +2,7 @@
   "name": "hard",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "dev": "node index.js"
   },
